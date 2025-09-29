@@ -17,4 +17,4 @@ Over a three-day period, conducted Open Source Intelligence (OSINT), Kali Linux 
 
 ### Project
 
- <a href="https://github.com/pranxyz/Secure-Azure-Web-Application/blob/main/Pranay%20Yara%20Azure%20Web%20App.pdf">Report</a>
+ <a href="https://github.com/pranxyz/Rekall-Corporation-Penetration-Testing/blob/main/Rekall%20Penetration%20Test%20Report.pdf">Report</a>
