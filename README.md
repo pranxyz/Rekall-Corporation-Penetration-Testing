@@ -9,6 +9,7 @@ Over a three-day period, conducted Open Source Intelligence (OSINT), Kali Linux 
 - Attacking web applicaitons
 - Attacking linux systems
 - Attacking windows systems
+- Penetration testing report
 
 ### Tools Used
 - OSINT
